@@ -50,3 +50,11 @@ You can clean the file produced by entering one of command as followed.
 
     * ./make.sh clean
     * bash make.sh clean
+
+
+Extra points
+------------
+
+    * Modulo operator
+    * Left shift operator
+    * Right shift operator
