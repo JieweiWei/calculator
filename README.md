@@ -58,3 +58,4 @@ Extra points
     * Modulo operator
     * Left shift operator
     * Right shift operator
+    * Display number of lines when errors occurred
